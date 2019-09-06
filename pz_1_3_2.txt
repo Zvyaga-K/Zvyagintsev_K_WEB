@@ -1,0 +1,13 @@
+git branch pz_1_3_1
+checkout pz_1_3_1
+git add pz_1_3_1.txt
+git commit -m "User name"
+git add pz_1_3_1.txt
+git commit -m "User Email"
+git add pz_1_3_1.txt
+git commit -m "Repository address"
+git add pz_1_3_1.txt
+git commit -m "Store in global repository"
+git checkout master
+git merge pz_1_3_1
+git push
