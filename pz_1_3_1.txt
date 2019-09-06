@@ -4,4 +4,5 @@ git clone https://github.com/Zvyaga-K/Zvyagintsev_K_WEB.git
 cd /D E:\ 
 \Web-Ka\Zvyagintsev_K_WEB>dir 
 git add numbPIB.txt 
-git commit -m "First"
+git commit -m "First" 
+git push
